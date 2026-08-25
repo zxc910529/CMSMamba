@@ -62,4 +62,4 @@ Total loss combines Cross-Entropy, Dice, and the proposed NDVI-Guided Saliency L
 
 ## Citation
 If you find our code is helpful for your research,please cite:
-Chuan-Jie Liao , Pei-Jun Lee and Cheng-Hong Huang "CMSMamba: Continuous Multidirectional Mamba with Spectral-Spatial Fusion for Crop-Weed Segmentation in UAV Multispectral" Imagery"
+Chuan-Jie Liao , Pei-Jun Lee and Cheng-Hong Huang "CMSMamba: Continuous Multidirectional Mamba with Spectral-Spatial Fusion for Crop-Weed Segmentation in UAV Multispectral Imagery"
