@@ -1,7 +1,8 @@
-# CMSMamba: An Efficient Multimodal Mamba Network for Crop-Weed Segmentation in UAV Multispectral Imagery 
+# CMSMamba: Continuous Multidirectional Mamba with Spectral-Spatial Fusion for Crop-Weed Segmentation in UAV Multispectral Imagery
+
 This repository is about our implementation of CMSMamba for Crop-Weed Segmentation
 <div align="center">
-    <img src="./docs/framework.png" width="700">
+    <img src="./docs/framework.png">
 </div>
 
 ## Requirements
@@ -59,6 +60,6 @@ Total loss combines Cross-Entropy, Dice, and the proposed NDVI-Guided Saliency L
 - Standard: horizontal flip / vertical flip / 90° rotation (equal probability), RandomScale (±50%), crop to fixed resolution
 - [Enhanced RICAP](https://www.sciencedirect.com/science/article/pii/S016816992100435X)
 
-## Citations
+## Citation
 If you find our code is helpful for your research,please cite:
-Chuan-Jie Liao and  Pei-Jun Lee, "CMSMamba: An Efficient Multimodal Mamba Network for Crop-Weed Segmentation in UAV Multispectral Imagery"
+Chuan-Jie Liao , Pei-Jun Lee and Cheng-Hong Huang "CMSMamba: Continuous Multidirectional Mamba with Spectral-Spatial Fusion for Crop-Weed Segmentation in UAV Multispectral" Imagery"
